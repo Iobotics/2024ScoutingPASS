@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "20203hiho",
+      "defaultValue": "2023hiho",
       "required": "true"
     },
     { "name": "Match Level",
