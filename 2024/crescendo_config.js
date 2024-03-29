@@ -174,16 +174,14 @@ var config_data = `
       "code": "dn",
       "type": "bool"
     },
+    { "name": "Note stuck",
+      "code": "ns",
+      "type": "bool"
+    },
     { "name": "Make good<br>alliance partner?",
       "tooltip": "Would you want this robot on your alliance in eliminations?",
       "code": "all",
       "type": "bool"
-    },
-    { "name": "Comments",
-      "code": "co",
-      "type": "text",
-      "size": 15,
-      "maxSize": 55
     }
   ]
 }`;
